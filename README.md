@@ -44,4 +44,4 @@ This is an IoT-based project designed to monitor the health of plants. It uses t
 - `diagrams/` - Circuit diagrams and Pinout images
 
 ---
-*Created by [Your Name]*
+*Created by Rahul Kumar*
